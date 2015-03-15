@@ -1,0 +1,32 @@
+Partlist exported from C:/Users/lucasolim/Desktop/Circuitos/Placas 2/MC_2015/MC_2015.sch at 25/08/2014 16:57:51
+
+Qty Value                         Device                Package             Parts                Description                MF MPN OC_FARNELL OC_NEWARK
+2                                 MA12-1                MA12-1              SV1, SV2             PIN HEADER                        unknown    unknown  
+1   0R1 2W                        RESISTOR2512          R2512               R1                   Resistor                                              
+1   10000pF                       CAP1210               1210                C3                   Capacitor                                             
+1   100uF                         C-EUC1210             C1210               C5                   CAPACITOR, European symbol                            
+5   1K                            RESISTOR              0805                R5, R6, R8, R12, R14 Resistor                                              
+1   1K                            RESISTOR0805-RES      0805                R9                   Resistor                                              
+1   1nF / 30V                     CAP0805               0805                C1                   Capacitor                                             
+1   2.2 uF                        C-EUC2220K            C2220K              C4                   CAPACITOR, European symbol                            
+1   3K3                           RESISTOR              0805                R3                   Resistor                                              
+1   470K                          RESISTOR2512          R2512               R4                   Resistor                                              
+2   470nF                         C-EUC1812             C1812               C6, C7               CAPACITOR, European symbol                            
+1   47R                           RESISTOR              0805                R2                   Resistor                                              
+1   680R                          R-EU_R1210            R1210               R15                  RESISTOR, European symbol                             
+1   BLEEDER                       SWITCH-MOMENTARY-2PTH TACTILE-PTH         S2                                                                         
+1   CON-CAPACITORES               M025MM                SCREWTERMINAL-5MM-2 JP3                  Header 2                                              
+1   CON-CHUTE_ALTO                M025MM                SCREWTERMINAL-5MM-2 JP1                  Header 2                                              
+1   CON-CHUTE_BAIXO               M025MM                SCREWTERMINAL-5MM-2 JP2                  Header 2                                              
+1   FUSEX20MM                     FUSEX20MM             FUSE_5MM            F1                                                                         
+1   INDUCTOR POWER 100UH 2.5A SMD INDUCTORPWR           CDRH125             L1                   Inductors                                             
+1   IR4427S                       IR4427S               SO08                IC1                  DUAL LOW SIDE DRIVER                                  
+2   IRFP4868PBF                   IRFP240               TO247BV             Q3, Q4               HEXFET Power MosFet                                   
+1   MBRS130LT3                    MBRS130LT3            SMB                 D1                   Schottky Power Rectifier                              
+1   MC34063SMD                    MC34063SMD            SO08                U1                                                                         
+1   MMBT3906LT1                   MMBT3906LT1SMD        SOT23-BEC           Q1                   PNP Transistror                                       
+1   MURS360                       SCHOTTKY-DIODESMC     SMC                 D3                   Schottky Diode                                        
+2   P6SMB300A                     DIODE-SMB             SMB                 D6, D7               DIODE                                                 
+1   S1MFSCT                       DIODESMA              SMA-DIODE           D5                   Diode                                                 
+1   STB50NF25                     IRF3704S              D2PACK              Q5                   SMPS MOSFET                                           
+2   USB260                        DIODE-SMB             SMB                 D2, D4               DIODE                                                 

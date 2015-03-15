@@ -1,0 +1,41 @@
+Partlist exported from C:/Users/lucasolim/Desktop/Circuitos/Placas 2/MC_2015/MC_2015.sch at 25/08/2014 16:57:39
+
+Part Value                         Device                Package             Description                MF MPN OC_FARNELL OC_NEWARK
+!C1   1nF / 30V                     CAP0805               0805                Capacitor                                             
+!C3   10000pF                       CAP1210               1210                Capacitor                                             
+!C4   2.2 uF                        C-EUC2220K            C2220K              CAPACITOR, European symbol                            
+!C5   100uF                         C-EUC1210             C1210               CAPACITOR, European symbol                            
+!C6   470nF                         C-EUC1812             C1812               CAPACITOR, European symbol                            
+!C7   470nF                         C-EUC1812             C1812               CAPACITOR, European symbol                            
+!D1   MBRS130LT3                    MBRS130LT3            SMB                 Schottky Power Rectifier                              
+!D2   USB260                        DIODE-SMB             SMB                 DIODE                                                 
+!D3   MURS360                       SCHOTTKY-DIODESMC     SMC                 Schottky Diode                                        
+!D4   USB260                        DIODE-SMB             SMB                 DIODE                                                 
+!D5   S1MFSCT                       DIODESMA              SMA-DIODE           Diode                                                 
+!D6   P6SMB300A                     DIODE-SMB             SMB                 DIODE                                                 
+!D7   P6SMB300A                     DIODE-SMB             SMB                 DIODE                                                 
+F1   FUSEX20MM                     FUSEX20MM             FUSE_5MM                                                                  
+!IC1  IR4427S                       IR4427S               SO08                DUAL LOW SIDE DRIVER                                  
+JP1  CON-CHUTE_ALTO                M025MM                SCREWTERMINAL-5MM-2 Header 2                                              
+JP2  CON-CHUTE_BAIXO               M025MM                SCREWTERMINAL-5MM-2 Header 2                                              
+JP3  CON-CAPACITORES               M025MM                SCREWTERMINAL-5MM-2 Header 2                                              
+L1   INDUCTOR POWER 100UH 2.5A SMD INDUCTORPWR           CDRH125             Inductors                                             
+!Q1   MMBT3906LT1                   MMBT3906LT1SMD        SOT23-BEC           PNP Transistror                                       
+Q3   IRFP4868PBF                   IRFP240               TO247BV             HEXFET Power MosFet                                   
+Q4   IRFP4868PBF                   IRFP240               TO247BV             HEXFET Power MosFet                                   
+!Q5   STB50NF25                     IRF3704S              D2PACK              SMPS MOSFET                                           
+!R1   0R1 2W                        RESISTOR2512          R2512               Resistor                                              
+!R2   47R                           RESISTOR              0805                Resistor                                              
+!R3   3K3                           RESISTOR              0805                Resistor                                              
+!R4   470K                          RESISTOR2512          R2512               Resistor                                              
+!R5   1K                            RESISTOR              0805                Resistor                                              
+!R6   1K                            RESISTOR              0805                Resistor                                              
+!R8   1K                            RESISTOR              0805                Resistor                                              
+!R9   1K                            RESISTOR0805-RES      0805                Resistor                                              
+!R12  1K                            RESISTOR              0805                Resistor                                              
+!R14  1K                            RESISTOR              0805                Resistor                                              
+!R15  680R                          R-EU_R1210            R1210               RESISTOR, European symbol                             
+S2   BLEEDER                       SWITCH-MOMENTARY-2PTH TACTILE-PTH                                                               
+SV1                                MA12-1                MA12-1              PIN HEADER                        unknown    unknown  
+SV2                                MA12-1                MA12-1              PIN HEADER                        unknown    unknown  
+!U1   MC34063SMD                    MC34063SMD            SO08                                                                      
